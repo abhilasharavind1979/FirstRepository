@@ -1,0 +1,13 @@
+RBI Circular _2007
+
+1. Definitions ( In this part, unless the context otherwise requires) :-
+
+(i) ‘Telemarketing’ - Transmission of any message through telecommunication services for the purpose of soliciting or promoting any commercial transaction in relation to goods, investment or services.
+
+(ii) ‘Telemarketer’ - Person/ legal entity engaged in the activity of telemarketing.
+
+(iii) ‘Telemarketing Centre’ - The telemarketing facility at a location in India used by the Telemarketer for providing the telemarketing services.
+
+(iv) ‘Telecom Resource’ - Telecom facilities provided by licensed telecom service provider.
+
+(v) ‘Remote Location’ – A point of presence from where Telemarketer collects and carries the non voice traffic relating to telemarketing activities.

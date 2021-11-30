@@ -1,0 +1,49 @@
+https://www.tatatelebusiness.com/faqs-new-tata-teleservices
+
+Transactional messages are SMSes containing only:
+
+Information sent to its customer(s) by the Bank or financial institution or insurance company or Credit Card Company or Access Provider pertaining to the account of that customer(s)
+Information given by Airlines or Indian Railways or its authorized agencies to its passengers regarding travel schedules, ticket booking and reservation
+Information from a registered educational institution to parents or guardians of its students
+Any other message as may be specified by the Authority, from time to time as “Transactional message”
+
+
+www.trai.gov.in
+
+www.nccptrai.gov.in	- (Guidelines – Customers, Telemarketing, Access provider / Regulation/ Login/ Status)
+http://nccptrai.gov.in/nccpregistry/search.misc	-	Customer Login Status
+http://nccptrai.gov.in/nccpregistry/UccSearch.misc	-	Compliants
+http://www.nccptrai.gov.in/nccpregistry/listoftmstateanddistrict.misc?method=loadStates
+					- 	List of Registered Telemarketers
+
+
+
+“Provider Customer Preference Register” is a database maintained by an Access Provider containing telephone numbers and other details of its subscribers who have registered their preference regarding commercial communications.
+
+“National Customer Preference Register” is a national database containing a list of the telephone numbers of all subscribers who have registered their preferences regarding receipt of commercial communications.
+
+“National Telemarketers Register” is a national database containing details of telemarketers registered with the Authority.
+
+Yes, all Telemarketers have been allocated 10 digit number of 70XXXXXXXX number series. Therefore, you can identify the telemarketing call even if you are not registered with NCPR.
+
+“Originating Access Provider” means the Access Provider who has provided the telecom resources to a telemarketer.
+
+“Terminating Access Provider” means the Access Provider on whose network the subscriber receiving the commercial communication is registered.
+
+No, 140XX series is only for commercial communications, over voice call. No, separate telecom resources need to be used for telemarketing and transactional/service communications. Resource with 140XX series should only be used for telemarketing communications, otherwise transactional/service communication coming from 140XX series will also be considered as telemarketing communication and will attract penalization.
+
+Every registered telemarketer shall be allowed to download NCPR (National Customer Preference Register) data from website
+www.nccptrai.gov.in
+The data will be available on NCPR for download by telemarketers from 0700 hrs to 1300 hrs on every Tuesday and Friday respectively.
+
+
+The data downloaded on Tuesday will be operational from 0000 hrs of Wednesday to 2359 hrs of Friday and the data downloaded on Friday will be operational from 0000 hrs of Saturday to 2359 hrs of Tuesday.
+
+The telemarketer has agreed to make all necessary arrangements to download the data from the National Customer Preference Register website and update its Customer Preference data base in accordance with the procedure specified in the Schedule-II to the Telecom Commercial Communication Customer Preference Regulations 2010.
+
+The telemarketer has agreed that before sending any SMS or making a telemarketing call to a telecom subscriber, he shall scrub the telephone number of such subscriber with the data base received from the National Customer Preference register in the manner as specified in the Schedule-II of these regulations. In case, the telemarketer fails to follow the scrubbing process, telecom resources allotted to him shall be disconnected by the Access Provider from whom the telemarketer has taken the telecom resource for the purpose of telemarketing and his name shall be entered into the black list maintained by the agency maintaining the National Telemarketer Register for a period of two years
+
+The telemarketer also agrees that the telemarketing calls to the subscriber whose telephone number does not appear in the National Customer Preference Register shall be sent only between 0900 Hrs to 2100 Hrs. The telemarketer also undertake not to send any commercial communication between 2100 Hrs to 900 hrs to any subscriber irrespective of the fact that such subscriber is registered on NCPR or not.
+
+
+

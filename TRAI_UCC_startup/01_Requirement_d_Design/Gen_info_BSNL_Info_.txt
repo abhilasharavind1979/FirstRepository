@@ -1,0 +1,7 @@
+
+https://www.ucc-bsnl.co.in/
+https://www.ucc-bsnl.co.in/signup/
+	Enterprise
+	Telemarketer
+	  Telemarketer Aggregator --> collects UCC from enterprises, but DO NOT -connection with Telco.
+	  Telemarketer Delivery --> collects UCC from enterprises, but DO NOT -connection with Telco.
